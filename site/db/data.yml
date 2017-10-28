@@ -1,0 +1,369 @@
+
+---
+artists:
+  columns:
+  - name
+  - website
+  - note
+  records: 
+  - - Anton Hatwich
+    - www.antonhatwich.com/
+    - ''
+  - - Ari Brown
+    - greatblackmusicproject.org/en/registry/ari-brown
+    - ''
+  - - Clark Sommers
+    - clarksommers.com/
+    - ''
+  - - Damon Short
+    - ourworld.compuserve.com/homepages/damonshort/
+    - ''
+  - - Ed Wilkerson
+    - aacmchicago.org/members/_wilkersonbio.html
+    - ''
+  - - Grazyna Auguscik
+    - www.grazynaauguscik.com/
+    - ''
+  - - Ingrid Laubrock
+    - www.ingridlaubrock.com/
+    - ''
+  - - Jason Stein
+    - jasonsteinmusic.com/
+    - ''
+  - - Jeff Chan
+    - www.jeffchanmusic.com/
+    - ''
+  - - Jeremy Cunningham
+    - www.jeremy-cunningham.com/
+    - ''
+  - - Jessica Pavone
+    - jessicapavone.com/
+    - ''
+  - - Jim Baker
+    - www.wnur.org/wnurwiki/index.php?n=Main.JimBaker
+    - ''
+  - - John Kregor
+    - johnkregor.com/
+    - ''
+  - - John Wojciechowski
+    - jwojojazz.com/
+    - ''
+  - - Jonathan Chen
+    - jonathanchen.net/
+    - ''
+  - - Josh Berman
+    - www.joshberman.net/
+    - ''
+  - - Joshua Abrams
+    - myspace.com/reminderrr
+    - ''
+  - - Kuang-Hao Huang
+    - www.khpiano.net/
+    - ''
+  - - Lane Beckstrom
+    - www.lanebeckstrom.com/
+    - ''
+  - - Lia Kohl
+    - liairenekohl.com/
+    - ''
+  - - Lucky 7s
+    - lucky7s.org/
+    - Jason Adasiewicz, Jeff Albert, Josh Berman, Jeb Bishop, Matthew Golombisky,
+      Keefe Jackson, Quin Kirchner
+  - - Matt Gold
+    - www.mattgold.com/
+    - ''
+  - - Matt Ulery
+    - mattulery.com/
+    - ''
+  - - Miya Masaoka
+    - www.miyamasaoka.com/
+    - ''
+  - - Nick Mazzarella
+    - www.nickmazzarella.com/
+    - ''
+  - - Nicole Mitchell
+    - www.nicolemitchell.com/
+    - ''
+  - - Pat Mallinger
+    - myspace.com/patmallinger
+    - ''
+  - - Paul Giallorenzo
+    - myspace.com/paulgiallorenzo
+    - ''
+  - - Pedway
+    - myspace.com/pedway
+    - Caroline Davis, Matthew Golombisky, Quin Kirchner
+  - - Peter Evans
+    - myspace.com/peterevanstrumpet
+    - ''
+  - - Quin Kirchner
+    - www.quinkirchner.com/
+    - ''
+  - - Rob Clearfield
+    - myspace.com/robclearfield
+    - ''
+  - - Rob Jacobs
+    - robjacobs.bandcamp.com/
+    - ''
+  - - Ryan Packard
+    - ryanpackardsounds.org/
+    - ''
+  - - Sabertooth
+    - myspace.com/sabertoothquartet
+    - Pat Mallinger, Cameron Pfiffner, Pete Benson, Ted Sirota
+  - - Shanna Gutierrez
+    - www.shannagutierrez.com/
+    - ''
+  - - Stuart Mindeman
+    - www.stumindeman.com/
+    - ''
+  - - Tatsu Aoki
+    - tatsuaoki.com/
+    - ''
+  - - Ted Sirota
+    - tedsirota.com/
+    - ''
+  - - Tony Malaby
+    - tonymalaby.com/
+    - ''
+  - - blink.
+    - www.blinktheband.com/
+    - Jeff Greene, Quin Kirchner, Dave Miller, Greg Ward
+
+---
+events:
+  columns:
+  - day
+  - venue_id
+  - time
+  - listing
+  records: 
+  - - '2017-10-07'
+    - c
+    - 8:30PM
+    - Tony Malaby, Anthony Cox, JT Bates ($10)
+  - - '2017-10-07'
+    - el2
+    - 9:00PM
+    - "[2017 Chicago Asian American Jazz Festival] Jonathan Chen, Tatsu Aoki; Asian
+      American Experimentalism : Jonathan Chen, Tatsu Aoki, with Ari Brown, Ed Wilkerson,
+      Jeff Chan, Mai Sugimoto ($10)"
+  - - '2017-10-07'
+    - gm
+    - 11:45PM-5:00AM
+    - 'Sabertooth : Pat Mallinger, Cameron Pfiffner, Pete Benson, Ted Sirota'
+  - - '2017-10-07'
+    - gm
+    - 1:30AM-3:45AM
+    - "[Late Night on Friday] After-Hours Jazz Jam Session hosted by The Green Mill
+      Quartet : Eric Schneider, Dennis Luxion, Steven Hashimoto, Rick Shandling"
+  - - '2017-10-07'
+    - pffs
+    - 3:00PM
+    - "[Power in Sound : The Sonatas of Galina Ustvolskaya] Kuang-Hao Huang, Christopher
+      Jones, Tara Lynn Ramsey, Christopher Narloch, Andrew Rosenblum ($15-$10)"
+  - - '2017-10-08'
+    - c
+    - 8:30PM
+    - 'Fifth House: fresh inc all stars ($15-$10)'
+  - - '2017-10-08'
+    - el2
+    - 9:00PM
+    - 'Rob Jacobs Band; JOBS, special quartet edition : Max Jaffe, Dave Scanlon, Jessica
+      Pavone, Rob Lundberg; ZRL : Zach Good, Lia Kohl, Ryan Packard ($10)'
+  - - '2017-10-08'
+    - hb
+    - 9:00PM
+    - Gerrit Hatcher's Refunction, with Jake Wark, Nolan Chin, Bill Harris ($10 suggested
+      donation)
+  - - '2017-10-08'
+    - wh
+    - 9:00PM
+    - Marcian Fahmy, Lenard Simpson, Christian Dillingham, Jeremy Cunningham -- the
+      music of Thelonious Monk
+  - - '2017-10-09'
+    - andy
+    - 5:00PM
+    - Nick Mazzarella's Meridian Trio +1, with Tim Stine, Matt Ulery, Jeremy Cunningham;
+      7:00PM Second session
+  - - '2017-10-09'
+    - bk
+    - 9:00PM
+    - 'Extraordinary Popular Delusions : Jim Baker, Mars Williams, Brian Sandstrom,
+      Damon Short'
+  - - '2017-10-09'
+    - el2
+    - 9:00PM
+    - Ross Hammond, Anton Hatwich; Josh Kline, Tom Buckley ($10)
+  - - '2017-10-09'
+    - ess
+    - 7:30PM
+    - Olie Brice, Jason Stein; Olie Brice, Josh Berman
+  - - '2017-10-09'
+    - my
+    - 7:30PM
+    - Bill Harris
+  - - '2017-10-09'
+    - wh
+    - 9:00PM
+    - The Whistler Jam, hosted by Matt Ulery, Quin Kirchner
+  - - '2017-10-10'
+    - hb
+    - 7:30PM
+    - Erwin Helfer
+  - - '2017-10-10'
+    - hb
+    - 9:00PM
+    - Tuesday Night Fellowship
+  - - '2017-10-10'
+    - wh
+    - 9:30PM
+    - 'Bison Bison : Wills McKenna, Ishmael Ali, Mike Harmon, Matt Carroll'
+  - - '2017-10-11'
+    - fultonsc
+    - 9:00PM
+    - "[Chick Corea's Three Quartets] Rodrigo Villanueva Conroy, John Wojciechowski,
+      Stuart Mindeman, Clark Sommers ($10-$5)"
+  - - '2017-10-11'
+    - hb
+    - 9:00PM
+    - Wills McKenna Quintet with Jeff Swanson, Matt Gold, Lane Beckstrom, Matt Carroll
+  - - '2017-10-12'
+    - c
+    - 8:30PM
+    - Grazyna Auguscik Group, with Rob Clearfield, John Kregor, Patrick Mulcahy, Quin
+      Kirchner ($10)
+  - - '2017-10-12'
+    - el2
+    - 9:00PM
+    - Paul Giallorenzo Trio with Joshua Abrams, Mikel Avery ($10)
+  - - '2017-10-12'
+    - lcpp
+    - 7:00PM
+    - Ingrid Laubrock Septet with Sam Pluta, Peter Evans, Miya Masaoka, Kris Davis,
+      Dan Peck, Tom Rainey
+  - - '2017-10-13'
+    - c
+    - 8:30PM
+    - Ingrid Laubrock's Serpentines, with Miya Masaoka, Kris Davis, Sam Pluta, Dan
+      Peck, Tom Rainey ($15-$10)
+  - - '2017-10-13'
+    - galvin
+    - 7:30PM
+    - "[Collect/Project] Shanna Gutierrez, Eva Z&ouml;llner, Francisco Castillo Trigueros
+      -- music by Selim G&ouml;nc&uuml;, Fredrick Gifford, Neele Neo H&uuml;lcker,
+      Detlef Heusinger, Keiko Harada, [zygote] (Martin Iddon/Antti Saario) ($8)"
+  - - '2017-10-14'
+    - _mhgf
+    - 8:00PM
+    - Yasunao Tone (Free, RSVP)
+  - - '2017-10-14'
+    - gm
+    - 11:45PM-5:00AM
+    - 'Sabertooth : Pat Mallinger, Cameron Pfiffner, Pete Benson, Ted Sirota'
+  - - '2017-10-14'
+    - gm
+    - 1:30AM-3:45AM
+    - "[Late Night on Friday] After-Hours Jazz Jam Session hosted by The Green Mill
+      Quartet : Eric Schneider, Dennis Luxion, Steven Hashimoto, Rick Shandling"
+  - - '2017-10-14'
+    - promontory
+    - 8:00PM
+    - Nicole Mitchell presents Mandorla Awakening ($42-$18)
+
+---
+venues:
+  columns:
+  - venue_id
+  - name
+  - display_address
+  - phone
+  - website
+  - address
+  - note
+  records: 
+  - - andy
+    - Andy's Jazz Club
+    - 11 E Hubbard
+    - 312.642.6805
+    - http://andysjazzclub.com/
+    - 11 E Hubbard St, Chicago, IL 60611
+    - ''
+  - - bk
+    - Beat Kitchen
+    - 2100 W Belmont
+    - 773.281.4444
+    - http://www.beatkitchen.com/
+    - 2100 W Belmont Ave, Chicago, IL 60618
+    - WX
+  - - c
+    - Constellation
+    - 3111 N Western
+    - ''
+    - http://constellation-chicago.com/
+    - 3111 N Western Ave, Chicago, IL 60618
+    - ''
+  - - el2
+    - Elastic
+    - '3429 W Diversey, #208'
+    - 773.772.3616
+    - http://elasticarts.org/
+    - 3429 W Diversey Ave, Chicago, IL 60647
+    - ''
+  - - ess
+    - Experimental Sound Studio
+    - 5925 N Ravenswood
+    - 773.769.1069
+    - http://experimentalsoundstudio.org/
+    - 5925 N Ravenswood Ave, Chicago, IL 60660
+    - ''
+  - - gm
+    - the Green Mill
+    - 4802 N Broadway
+    - 773.878.5552
+    - http://www.greenmilljazz.com/
+    - 4802 N Broadway St, Chicago, IL 60640
+    - WX
+  - - hb
+    - the Hungry Brain
+    - 2319 W Belmont
+    - ''
+    - http://www.hungrybrainchicago.com/
+    - 2319 W Belmont Ave, Chicago, IL 60618
+    - WX
+  - - lcpp
+    - the Logan Center Performance Penthouse
+    - 915 E 60th
+    - 773.702.ARTS
+    - http://arts.uchicago.edu/logan/
+    - 915 E 60th St, Chicago, IL 60637
+    - ''
+  - - my
+    - Myopic Books
+    - 1564 N Milwaukee
+    - 773.862.4882
+    - http://www.myopicbookstore.com/
+    - 1564 N Milwaukee Ave, Chicago, IL 60622
+    - WNX
+  - - pffs
+    - 'PianoForte '
+    - 1335 S Michigan
+    - 312.291.0291
+    - http://www.pianofortefoundation.org/
+    - 1335 S Michigan Ave, Chicago, IL 60605
+    - ''
+  - - promontory
+    - the Promontory
+    - 5311 S Lake Park
+    - 312.801.2100
+    - http://www.promontorychicago.com/
+    - 5311 S Lake Park Ave, Chicago, IL 60615
+    - ''
+  - - wh
+    - The Whistler
+    - 2421 N Milwaukee
+    - ''
+    - http://www.whistlerchicago.com/
+    - 2421 N Milwaukee Ave, Chicago, IL 60647
+    - WX
